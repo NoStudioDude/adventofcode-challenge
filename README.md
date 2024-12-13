@@ -9,10 +9,4 @@ Created by Eric Wastl.
 
 ## Programming Language
 
-I will be using the following programming language(s) to solve the puzzles:
-
-- [ ] Python
-- [ ] JavaScript
-- [ ] Java
-- [ ] C++
-- [ ] Other: ___________________
+I will be using C# programming language(s) to solve the puzzle
